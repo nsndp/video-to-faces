@@ -20,6 +20,8 @@ setup(
         'requests',
         'scikit-learn',
         'torch',
+        'torchvision',
+        'tqdm',
     ],
     classifiers=[
         # complete classifier list: http://pypi.python.org/pypi?%3Aaction=list_classifiers
